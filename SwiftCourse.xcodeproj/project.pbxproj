@@ -44,6 +44,7 @@
 		8D9EBFE1299B5278000F5A4E /* SwiftCourseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCourseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D9EBFE5299B5278000F5A4E /* SwiftCourseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCourseUITests.swift; sourceTree = "<group>"; };
 		8D9EBFE7299B5278000F5A4E /* SwiftCourseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCourseUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8D9EBFF4299B530D000F5A4E /* Plyaground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Plyaground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 				8D9EBFCC299B5277000F5A4E /* ContentView.swift */,
 				8D9EBFCE299B5278000F5A4E /* Assets.xcassets */,
 				8D9EBFD0299B5278000F5A4E /* Preview Content */,
+				8D9EBFF4299B530D000F5A4E /* Plyaground.playground */,
 			);
 			path = SwiftCourse;
 			sourceTree = "<group>";
